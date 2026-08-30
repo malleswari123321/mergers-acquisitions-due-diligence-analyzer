@@ -4,7 +4,7 @@
 
 Upload legal agreements, get an instant, structured risk report with clause-level red flags, severity scoring, and an executive summary — powered by LLM-based document analysis.
 
-![Risk Report View](screenshots/risk-report-view.png)
+![Risk Report View](ma1.png)
 
 ---
 
